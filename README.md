@@ -94,7 +94,7 @@ My work focuses on **trustworthy and data-efficient learning**, including **mult
 
 <img
   src="https://geekageddon-api.vercel.app/api/snake-game?text=FEEL%20FREE%20TO%20REACH%20OUT&size=2&static=1"
-  alt="Geek Snake – Feel Free to Reach Out"
+  alt="Geek Snake – Let's Connect !"
   width="100%"
 />
 
@@ -104,11 +104,3 @@ Static preview of an SVG-based Snake visualization rendered from text.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=novia-aa&show_icons=true&hide_border=true&count_private=true"
-    alt="Yu-Tong Chuang's GitHub Stats"
-  />
-</p>
