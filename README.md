@@ -93,14 +93,13 @@ My work focuses on **trustworthy and data-efficient learning**, including **mult
 ### 🤝 Feel Free to Reach Out!
 
 <img
-  src="https://geekageddon-api.vercel.app/api/snake-game?text=FEEL%20FREE%20TO%20REACH%20OUT&size=2&static=1"
-  alt="Geek Snake – Let's Connect !"
+  src="https://geekageddon-api.vercel.app/api/snake-game?text=LETS%20CONNECT&size=2&static=1&v=2"
+  alt="Geek Snake – Let's Connect!"
   width="100%"
 />
 
-<sub>
-Static preview of an SVG-based Snake visualization rendered from text.
-</sub>
+
+
 
 ---
 
