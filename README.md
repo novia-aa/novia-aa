@@ -17,6 +17,16 @@ I am a **Master’s student in Computer Science at the University of Minnesota �
 My work focuses on **trustworthy and data-efficient learning**, including **multi-objective Bayesian optimization**, **calibration-aware LLM fine-tuning**, **graph-based urban representation learning**, and **Document AI**. I enjoy bridging **theory → experimentation → system deployment**, ensuring research ideas translate into usable systems.
 
 ---
+## 💼 Industry Focus
+
+I am seeking **Machine Learning Engineer / Applied Scientist / Software Engineer (AI)** roles where I can contribute to:
+
+- Training and optimizing ML / LLM models  
+- Building reliable ML pipelines and services  
+- Deploying models into production environments  
+- Improving model robustness, calibration, and performance  
+
+---
 
 ## 🔬 Research & Engineering Experience
 
@@ -55,48 +65,32 @@ My work focuses on **trustworthy and data-efficient learning**, including **mult
 
 ---
 
-## 🛠️ Technical Skills (Reorganized)
+## 🛠️ Technical Skills
 
-### 🤖 Machine Learning & AI
-- **Deep Learning**: PyTorch, TensorFlow, CNN, RNN, LSTM, Transformers  
-- **Classical ML**: Random Forest, XGBoost, SVM  
-- **LLMs & Generative AI**: Prompting, fine-tuning, calibration, multi-modal modeling  
-- **Optimization**: Bayesian Optimization, Gaussian Processes, multi-objective optimization  
-
-### 🧠 Representation Learning & Modeling
-- Graph Neural Networks (GNNs)  
-- Physics-Informed Neural Operators (PINO)  
-- Document AI & Layout Modeling  
-- Multi-modal and spatio-temporal learning  
-
-### ⚙️ Systems, Deployment & MLOps
-- **Backend & APIs**: Python, Flask  
-- **Containerization**: Docker  
-- **Automation / CI**: Git, CI/CD pipelines  
-- **System Deployment**: Model serving, reproducible experiments  
-
-### 📊 Data & Scientific Computing
-- NumPy, Pandas, Matplotlib  
-- R (statistical analysis, genomics)  
-- Quality Control pipelines  
-
+| Category | Skills |
+|--------|-------|
+| 🤖 **Machine Learning / AI** | PyTorch, TensorFlow, CNN, RNN, LSTM, Transformers, Random Forest, XGBoost, SVM |
+| 🧠 **LLMs & Generative AI** | Prompt Engineering, Fine-tuning, Calibration, Bayesian Optimization, Gaussian Processes |
+| 📐 **Advanced Modeling** | Graph Neural Networks (GNNs), Physics-Informed Neural Operators (PINO), Multi-modal & Spatio-temporal Modeling, Document AI |
+| ⚙️ **Backend & MLOps** | Python, Flask, Docker, Git, CI/CD Pipelines, Model Serving, Reproducible ML Pipelines |
+| 📊 **Data & Analytics** | NumPy, Pandas, Matplotlib, R, Data Quality Control |
 ---
 
-## 📬 Connect Information
-
-- 📧 **Email:** chuan120@umn.edu  
-- 🌍 **Location:** Minneapolis, USA  
-- 🔗 **LinkedIn / Portfolio:** www.linkedin.com/in/ula663312
-
----
-
-### 🤝 Feel Free to Reach Out!
+## 🤝 Feel Free to Reach Out!
 
 <img
   src="https://geekageddon-api.vercel.app/api/snake-game?text=LETS%20CONNECT&size=2&static=1&v=2"
   alt="Geek Snake – Let's Connect!"
   width="100%"
 />
+
+### 📬 Connect Information
+
+- 📧 **Email:** chuan120@umn.edu  
+- 🌍 **Location:** Minneapolis, USA  
+- 🔗 **LinkedIn / Portfolio:** www.linkedin.com/in/ula663312
+
+
 
 
 
