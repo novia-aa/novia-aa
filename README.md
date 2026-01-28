@@ -31,10 +31,10 @@ I focus on building **reliable, scalable, and production-ready systems**, combin
 Choose a role-focused view for more detailed experience and projects:
 
 - 🛠 **DevOps / Cloud / IT Engineering**  
-  👉 [View DevOps Profile](./README-devops.md)
+  👉 [View DevOps Profile](./devops.md)
 
 - 💻 **Full-Stack / Software Engineering**  
-  👉 [View Full-Stack Profile](./README-fullstack.md)
+  👉 [View Full-Stack Profile](./fullstack.md)
 
 ---
 
